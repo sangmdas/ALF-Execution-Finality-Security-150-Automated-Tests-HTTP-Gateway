@@ -1,0 +1,74 @@
+ALF NON-COMMERCIAL RESEARCH LICENSE — VERSION 1.0
+
+Copyright (c) 2026 Sangam Kumar Das. All rights reserved except as expressly licensed below.
+
+IMPORTANT: This is a custom, source-available, non-commercial software license.
+It is not an OSI-approved open-source license. It does not grant a patent license.
+
+1. DEFINITIONS
+"Software" means the source code, scripts, tests, examples, and documentation in this
+repository, except for any components explicitly identified as separately licensed.
+"Licensor" means Sangam Kumar Das.
+"You" means a person or entity exercising rights under this license.
+"Non-Commercial Research Use" means use solely for personal learning, academic study,
+non-commercial research, technical evaluation, education, reproducibility testing,
+and independent security review, without direct or indirect commercial advantage,
+commercial deployment, fee-based services, or development for a commercial product.
+
+2. LIMITED PERMISSION
+Subject to these terms, Licensor grants You a worldwide, non-exclusive,
+non-transferable, royalty-free copyright permission to access, download, reproduce,
+run, inspect, and modify the Software solely for Non-Commercial Research Use.
+You may share copies and modifications for the same permitted purpose if You retain
+this license, copyright notices, a prominent notice of Your changes, and attribution
+to the original project. You may not grant any recipient broader rights.
+
+3. COMMERCIAL USE NOT LICENSED
+Without a separate written license from the Licensor, You may not use the Software
+or modifications in a commercial product or service, paid consulting engagement,
+commercial training product, revenue-generating deployment, proprietary product
+development, or other activity for direct or indirect commercial advantage.
+A commercial organization seeking to evaluate the Software for business purposes
+must obtain separate written permission. Mere public access or downloading of the
+Software is not commercial authorization.
+
+4. PATENTS AND OTHER INTELLECTUAL PROPERTY
+NO patent license, patent covenant, immunity from suit, or other right under patent
+applications or granted patents is granted by this license, either expressly or
+by implication. All such rights are reserved. No trademark, trade name, or
+endorsement rights are granted. Access to this code, its test results, or the
+separate technical disclosure does not authorize practice of any patent claim.
+Any separate patent licensing, including FRAND, royalty-free, or commercial terms,
+requires an independent written agreement where applicable.
+
+5. ATTRIBUTION AND MISREPRESENTATION
+Retain the copyright notice, license text, and acknowledgement of the original
+ALF reference project in redistributed copies. Do not describe modified versions
+as independently validated, officially certified, or endorsed by the Licensor.
+Do not claim that the test suite proves production security or legal compliance.
+
+6. REDISTRIBUTION
+Non-commercial redistribution of unmodified or modified Software is permitted only
+under these same terms, with changes identified. You may not sublicense the
+Software under terms that permit commercial use.
+
+7. TERMINATION
+Rights under this license terminate automatically upon a violation of its terms.
+On termination, cease exercising licensed rights and remove unauthorized copies,
+subject to applicable law and any independent legal rights You may have.
+
+8. DISCLAIMER
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR
+IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY LAW. LICENSOR DISCLAIMS LIABILITY
+FOR LOSSES, DAMAGES, OR CLAIMS ARISING FROM THE SOFTWARE OR ITS USE TO THE
+MAXIMUM EXTENT PERMITTED BY LAW.
+
+9. THIRD-PARTY MATERIAL
+This license applies only to material the Licensor has authority to license.
+Third-party libraries, tools, standards, or dependencies retain their own terms.
+
+10. CONTACT AND DISCLOSURE
+Technical disclosure: https://zenodo.org/records/23659488
+Commercial or patent licensing inquiries: info@sangamdas.com
+
+END OF LICENSE

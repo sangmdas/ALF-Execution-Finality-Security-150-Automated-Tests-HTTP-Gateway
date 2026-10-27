@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "alf-execution-finality-reference"
+version = "0.1.0"
+description = "Educational ALF protected output-finality validation model"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "LicenseRef-ALF-NonCommercial-Research-1.0"}
+authors = [{name = "Sangam Das"}]
+[project.optional-dependencies]
+test = ["pytest>=7"]
+[tool.setuptools.packages.find]
+include = ["alf_reference*"]
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-v"
